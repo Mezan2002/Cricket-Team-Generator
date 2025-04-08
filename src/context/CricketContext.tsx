@@ -32,7 +32,7 @@ const defaultPlayers = [
   {
     id: "02",
     name: "Mizan",
-    imageUrl: "",
+    imageUrl: "/images/cricket-player.png",
     weight: 3,
   },
   {
@@ -110,7 +110,7 @@ const defaultPlayers = [
   {
     id: "15",
     name: "Arif",
-    imageUrl: "",
+    imageUrl: "/images/cricket-player.png",
     weight: 3,
   },
   {
